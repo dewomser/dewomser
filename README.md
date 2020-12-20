@@ -1,9 +1,9 @@
 ### Dewomser thats me
 
-I really try everything but my knowledge is pure-
+I really try everything but my knowledge is poor.
 
 - 🔭 I’m currently working on my retirement
-- 🌱 I’m currently learning ... beerdrinking
+- 🌱 I’m currently learning ... beerdrinking and more 
 - 👯 I’m looking to collaborate on ... smart things
 - 🤔 I’m looking for help with ... networking
 - 💬 Ask me about ... cool things
