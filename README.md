@@ -1,5 +1,6 @@
-### Dewomser thats me
+<img src="https://github.com/dewomser/dewomser/blob/main/header_short.jpg?raw=true">
 
+### Dewomser thats me
 I really try everything but my knowledge is poor.
 
 - 🔭 I’m currently working on my retirement
