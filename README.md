@@ -1,4 +1,4 @@
-<img src="https://github.com/dewomser/dewomser/blob/main/header_short.jpg?raw=true">
+<img src="https://github.com/dewomser/dewomser/blob/main/header_short.jpg?raw=true" alt="Banner for Dewomser*s Repository" title="Dewomser from Germany Worms">
 
 ### About me:
 I really try everything but my knowledge is poor.
