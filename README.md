@@ -19,3 +19,12 @@ My Websites
 
 I look after ***LUG*** Worms / Germany
 - https://wolust.de
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        label="lolo98"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
