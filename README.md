@@ -20,6 +20,3 @@ My Websites
 I look after ***LUG*** Worms / Germany
 - https://wolust.de
 
-Codenutrition: This is how I code/hack.
-
-<a href="http://code.grevit.net:8084/facts/O%2B_S%2B%2B_!I_C%2B%2B%2B_E_M-_V%2B%2B_PS%2B%2B_D%2B%2B"><img alt="code nutrition facts" src="http://code.grevit.net:8084/badge/O%2B_S%2B%2B_!I_C%2B%2B%2B_E_M-_V%2B%2B_PS%2B%2B_D%2B%2B"></img></a>
