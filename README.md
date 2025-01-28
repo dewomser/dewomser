@@ -12,6 +12,12 @@ I really try everything but my knowledge is poor.
 - 😄 Pronouns: ...he / him
 - ⚡ Fun fact: ...nothing at all
 
+#### GitHub Stats
+![Dewomser's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewomser&show_icons=true&theme=radical)
+
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewomser&layout=compact&theme=radical)
+
 My Websites 
 - https://untergang.de
 - https://smarpt.de
